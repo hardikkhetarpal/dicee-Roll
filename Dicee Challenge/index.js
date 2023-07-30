@@ -13,5 +13,5 @@ else if(randomNumber1===randomNumber2){
     document.querySelector("p").innerHTML="<b>Draw</b> Refresh me to Roll again";
 }
 else{
-    document.querySelector("p").innerHTML="<b>player 2 wins</b> Refresh me to Roll again";
+    document.querySelector("p").innerHTML="<b>Player 2 wins</b> Refresh me to Roll again";
 }
